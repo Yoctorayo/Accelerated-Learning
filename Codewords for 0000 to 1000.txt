@@ -10,16 +10,17 @@
 #9: p, b; Upper case P and lower case p look like the numeral 9 flipped horizontally. Lower case b looks like the numeral 9 turned 180°. 
 Unassigned: h, y, w, a, e, i, o, u, silent letters, ch (in chutzpah), j (in Hallelujah and jalapeno), ll (in tortilla); Vowel sounds, semivowels (/j/ and /w/) and /h/ do not correspond to any number. They can appear anywhere in a word without changing its number value.
 (2, 27 or 7) ng, n before k, hard c, q, hard g or x; Variant systems differ about whether /ŋ/ should encode 2 and classified together with /n/, 7 and classified together with /k/ and /ɡ/ or even 27 (e.g. ring could be 42, 47 or 427). When a /k/ and /ɡ/ is pronounced separately after the /ŋ/, variant systems that chose /ŋ/ to be 27 also disagree if an extra 7 should be written (e.g. finger could be 8274 or 82774, or if /ŋ/ is chosen to be 7, 8774).
-0 = s, x, z.
-1 = t, d.
+0 = s, x, z. soft c
+1 = t, d, th.
 2 = n.
 3 = m.
 4 = r.
 5 = l.
 6 = sh, ch, j, soft g.
 7 = c, k, hard g, q.
-8 = f, v.
+8 = f, v, ph.
 9 = p, b.
+
 #000: SEESAWS, S E E S A W S.
 #001: SOCIETY, S O C I E T Y.
 #002: ASSASSIN, A S S A S S I N.
@@ -131,6 +132,7 @@ Unassigned: h, y, w, a, e, i, o, u, silent letters, ch (in chutzpah),
 #097: SPIGOT, S P I G O T.
 #098: SUBVENTION, S U B V E N T I O N.
 #099: SUBPOENA, S U B P O E N A.
+If You haven't master some of these codewords yet, that's alright. Go back and listen to this unit as often as needed. Remember you can master these Codewords for #000 to #099.
 #1: HAT, H A T.
 #2: WINE, W I N E.
 #3: HOME, H O M E.
@@ -230,6 +232,7 @@ Unassigned: h, y, w, a, e, i, o, u, silent letters, ch (in chutzpah),
 #97: BUGGY, B U G G Y.
 #98: BEEHIVE, B E E H I V E.
 #99: BABY, B A B Y.
+If You haven't master some of these codewords yet, that's fine. Go back and listen to this unit as often as needed. Remember you can master these Codewords for #1 to #99.
 #100: DISEASE, D I S E A S E.
 #101: TOAST, T O A S T.
 #102: DESIGN, D E S I G N.
@@ -330,6 +333,7 @@ Unassigned: h, y, w, a, e, i, o, u, silent letters, ch (in chutzpah),
 #197: TOBOGGAN, T O B O G G A N.
 #198: TOP-FLOOR, T O P- F L O O R.
 #199: TOP-BOOTS, T O P- B O O T S.
+If You haven't master some of these codewords yet, that's okay. Go back and listen to this unit as often as needed. Remember you can master these Codewords for #100 to #199.
 #200: ANCESTOR, A N C E S T O R.
 #201: NOSTRUM, N O S T R U M.
 #202: INCINERATOR, I N C I N E R A T O R.
@@ -430,6 +434,7 @@ Unassigned: h, y, w, a, e, i, o, u, silent letters, ch (in chutzpah),
 #297: NAPKIN, N A P K I N.
 #298: UNPAVED, U N P A V E D.
 #299: NABOB, N A B O B.
+If You haven't master some of these codewords yet, don't worry. Go back and listen to this unit as often as needed. Remember you can master these Codewords for #200 to #299.
 #300: ALMSHOUSE, A L M S H O U S E.
 #301: MUSTACHE, M U S T A C H E.
 #302: MASON, M A S O N.
@@ -530,6 +535,7 @@ Unassigned: h, y, w, a, e, i, o, u, silent letters, ch (in chutzpah),
 #397: HUMBUG, H U M B U G.
 #398: IMPOVERISHMENT, I M P O V E R I S H M E N T.
 #399: HUMPBACK, H U M P B A C K.
+If You haven't master some of these codewords yet, it's no issue. Go back and listen to this unit as often as needed. Remember you can master these Codewords for #300 to #399.
 #400: RESUSCITATION, R E S U S C I T A T I O N.
 #401: ROOSTER, R O O S T E R.
 #402: RAISIN, R A I S I N.
@@ -630,6 +636,7 @@ Unassigned: h, y, w, a, e, i, o, u, silent letters, ch (in chutzpah),
 #497: REBUKE, R E B U K E.
 #498: REBUFF, R E B U F F.
 #499: REPUBLIC, R E P U B L I C.
+If You haven't master some of these codewords yet, that's not a big deal. Go back and listen to this unit as often as needed. Remember you can master these Codewords for #400 to #499.
 #500: LESSEES, L E S S E E S.
 #501: LUSITANIA, L U S I T A N I A.
 #502: LICENSE, L I C E N S E.
@@ -730,6 +737,7 @@ Unassigned: h, y, w, a, e, i, o, u, silent letters, ch (in chutzpah),
 #597: ALPACA, A L P A C A.
 #598: LEAPFROG, L E A P F R O G.
 #599: WALLPAPER, W A L L P A P E R.
+If You haven't master some of these codewords yet,  that's not a problme . Go back and listen to this unit as often as needed. Remember you can master these Codewords for #500 to #599.
 #600: CHASSIS, C H A S S I S.
 #601: CHESTNUT, C H E S T N U T.
 #602: JUICINESS, J U I C I N E S S.
@@ -798,7 +806,7 @@ Unassigned: h, y, w, a, e, i, o, u, silent letters, ch (in chutzpah),
 #665: JEWISH-LOOKING, J E W I S H- L O O K I N G.
 #666: CHOW-CHOW-JAR, C H O W- C H O W- J A R.
 #667: CHOO-CHOO-CAR, C H O O- C H O O- C A R.
-#668: ASH-HOVEL, A S H- H O V E L.
+#668: ASH-SHOVEL, A S H- S H O V E L.
 #669: JUJUBE, J U J U B E.
 #670: JIGSAW, J I G S A W.
 #671: SHAKEDOWN, S H A K E D O W N.
@@ -830,6 +838,7 @@ Unassigned: h, y, w, a, e, i, o, u, silent letters, ch (in chutzpah),
 #697: SHOPKEEPER, S H O P K E E P E R.
 #698: SHEEPFOLD, S H E E P F O L D.
 #699: SHIPBUILDER, S H I P B U I L D E R.
+If You haven't master some of these codewords yet, it's all right. Go back and listen to this unit as often as needed. Remember you can master these Codewords for #600 to #699.
 #700: CASES, C A S E S.
 #701: GHOST, G H O S T.
 #702: COUSIN, C O U S I N.
@@ -930,6 +939,7 @@ Unassigned: h, y, w, a, e, i, o, u, silent letters, ch (in chutzpah),
 #797: CUBICLE, C U B I C L E.
 #798: CUPFUL, C U P F U L.
 #799: COPYBOOK, C O P Y B O O K.
+If You haven't master some of these codewords yet, it's no trouble at all. Go back and listen to this unit as often as needed. Remember you can master these Codewords for #700 to #799.
 #800: FUSES, F U S E S.
 #801: FIST, F I S T.
 #802: FASTENER, F A S T E N E R.
@@ -989,7 +999,7 @@ Unassigned: h, y, w, a, e, i, o, u, silent letters, ch (in chutzpah),
 #856: FLASH, F L A S H.
 #857: FLAG, F L A G.
 #858: VELVET, V E L V E T.
-#859: VALAPJACK, V A L A P J A C K.
+#859: FLAPJACK, F L A P J A C K. 
 #860: VOYAGES, V O Y A G E S.
 #861: VEGETARIAN, V E G E T A R I A N.
 #862: FASHION, F A S H I O N.
@@ -1012,7 +1022,7 @@ Unassigned: h, y, w, a, e, i, o, u, silent letters, ch (in chutzpah),
 #879: VOCABULARY, V O C A B U L A R Y.
 #880: VIVISECTION, V I V I S E C T I O N.
 #881: VIVIDNESS, V I V I D N E S S.
-#882: VIVANUIERE, V I V A N U I E R E.
+#882: VIVANDIERE, V I V A N D I E R E.
 #883: FIVE-MASTER, F I V E- M A S T E R.
 #884: FEVER, F E V E R.
 #885: HALF-FULL, H A L F- F U L L.
@@ -1030,6 +1040,7 @@ Unassigned: h, y, w, a, e, i, o, u, silent letters, ch (in chutzpah),
 #897: FEE-BOOK, F E E- B O O K.
 #898: HALF-PAVED, H A L F- P A V E D.
 #899: FOB-PIECE, F O B- P I E C E.
+If You haven't master some of these codewords yet, have no fear. Go back and listen to this unit as often as needed. Remember you can master these Codewords for #800 to #899.
 #900: PACESETTER, P A C E S E T T E R.
 #901: PEST, P E S T.
 #902: POISON, P O I S O N.
@@ -1122,7 +1133,6 @@ Unassigned: h, y, w, a, e, i, o, u, silent letters, ch (in chutzpah),
 #989: PUFFBALL, P U F F B A L L.
 #990: PEPSIN, P E P S I N.
 #991: PUPPET, P U P P E T.
-#991: PUPPET, P U P P E T.
 #992: BOBBINS, B O B B I N S.
 #993: PIPE-MAKER, P I P E- M A K E R.
 #994: PEPPER, P E P P E R.
@@ -1131,4 +1141,13 @@ Unassigned: h, y, w, a, e, i, o, u, silent letters, ch (in chutzpah),
 #997: POPCORN, P O P C O R N.
 #998: POPOVER, P O P O V E R.
 #999: BOOBY-PRIZE, B O O B Y- P R I Z E.
-#1000: THESIS, T H E S I S.
+#1000: THESIS, T H E S I S.                                                                               
+#2000: NIECES, N I E C E S.
+#3000: MUSES, M U S E S.
+#4000: HORSES, H O R S E S.
+#5000: LOSES, L O S E S.
+#6000: JESUS J E S U S.
+#7000: GASSES, G A S S E S.
+#8000: OFFICE, O F F I C E.
+#9000: BASIS, B A S I S.
+If You haven't master some of these codewords yet, don't fret about it. Go back and listen to this unit as often as needed. Remember you can master these Codewords for #900 to #9000.
